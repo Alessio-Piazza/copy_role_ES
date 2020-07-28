@@ -1,7 +1,0 @@
----
-- name: Role to copy file in a server
-  hosts: linux
-  become: true
-
-  roles:
-  - role: role_copy 

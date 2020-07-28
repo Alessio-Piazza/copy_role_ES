@@ -1,9 +1,0 @@
----
-# Linux
-- name: Copy file in a server (Linux)
-  copy:
-    src: /home/ale/copy_role/temp
-    dest: /home/alessio_piazza
-    follow: yes
-    owner: "{{ ansible_user }}"
-    group: "{{ ansible_user }}"

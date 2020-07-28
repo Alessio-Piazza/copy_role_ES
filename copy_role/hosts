@@ -1,9 +1,0 @@
-[hosts]
-pippo ansible_host=10.110.2.82
-pluto ansible_host=10.110.2.84
-topolino ansible_host=10.110.2.46
-
-[linux]
-pippo
-pluto
-topolino

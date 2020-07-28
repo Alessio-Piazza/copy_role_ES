@@ -1,5 +1,0 @@
----
-# tasks file for copy-role
-- name: Copy file in a server
-  import_tasks: linux.yml
-...
